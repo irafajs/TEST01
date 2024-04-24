@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 comment="$1"
 
 git add .
